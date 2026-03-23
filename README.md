@@ -10,7 +10,7 @@ The objective was not just to find the ground state, but to map the exact fricti
 ---
 
 ## 📸 The Core Discovery: The Topology vs. Hardware Trap
-*[Placeholder: Insert 'energy_vs_topology_divergence.png' here from the assets folder]*
+*![Energy vs Topology Divergence](assets/image_58950d.png)*
 
 > **Figure 1:** Across all classical ML architectures tested, bypassing the massive Quantum Geometric Tensor (QGT) using local optimizers (Adam) successfully isolates local energy (-1.266), but completely blinds the network to global Conformal topology (Delta = 0.125). 
 
@@ -45,3 +45,4 @@ The objective was not just to find the ground state, but to map the exact fricti
 The 1D critical chain served as the ultimate proving ground to map compiler constraints and geometric friction. 
 
 Having exhaustively documented the hardware limits of SR Jacobians and the topological blindness of Euclidean optimizers, this framework is currently being adapted to deploy **Decoupled Phase-Amplitude Neural Networks** against the unsolved **2D Frustrated J1-J2 Fermionic Sign Problem**.
+
