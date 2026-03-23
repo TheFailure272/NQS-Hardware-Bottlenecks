@@ -1,0 +1,1 @@
+This directory contains the 9 intermediary experimental scripts, patches, and compiler logs that bridge the major architectural epochs in the src/ folder.
