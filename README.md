@@ -1,4 +1,5 @@
 ﻿# Project Sigma: A Unified Stress-Test of Tensor Networks, Q-uMPS, and NQS
+ Co-Developed by Anvay Sanil and Abhishek Chaturvedi
 
 **An exhaustive 22-phase autopsy of hardware, compiler, and geometric bottlenecks in 1D Quantum Criticality.**
 
